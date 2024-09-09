@@ -36,6 +36,6 @@ This lab offers comprehensive practice, but note that the actual exam may presen
 
 ## Getting Started
 
-- **[Preparation](GNS3 Lab for LFCS - Preparation.md)**: Begin by setting up your environment and reviewing key guidelines.
-- **[Questions](GNS3 Lab for LFCS - Questions.md)**: Test your knowledge with real-world practical scenarios.
-- **[Questions and Solutions](GNS3 Lab for LFCS - Questions and Solutions.md)**: Compare your answers and deepen your understanding with detailed solutions.
+- **[Preparation](GNS3%20Lab%20for%20LFCS%20-%20Preparation.md)**: Begin by setting up your environment and reviewing key guidelines.
+- **[Questions](GNS3%20Lab%20for%20LFCS%20-%20Questions.md)**: Test your knowledge with real-world practical scenarios.
+- **[Questions and Solutions](GNS3%20Lab%20for%20LFCS%20-%20Questions%20and%20Solutions.md)**: Compare your answers and deepen your understanding with detailed solutions.
