@@ -1,6 +1,6 @@
 # LFCS GNS3 Lab: Questions and Solutions
 
- [Back to main](GNS3 Lab for LFCS - Overview and Guidelines.md)
+ [Back to main](GNS3%20Lab%20for%20LFCS%20-%20Overview%20and%20Guidelines.md)
 
 > [!CAUTION]
 > This document includes both questions and their corresponding detailed answers.
