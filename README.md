@@ -6,8 +6,10 @@ This GNS3 lab was designed to test my knowledge in preparation for the Linux Fou
 
 ## Requirements
 
-- A Linux system with GNS3 and QEMU installed, or
-- A Windows system running the GNS3 virtual machine.
+- A Linux system with GNS3 and QEMU installed, or## 
+
+## Schema
+<img src="imgs/lab-schema.png" alt="Schema" style="zoom:30%;" />
 
 ## Resources
 
