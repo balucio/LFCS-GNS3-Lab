@@ -11,10 +11,10 @@ This GNS3 lab was designed to test my knowledge in preparation for the Linux Fou
 
 ## Resources
 
-- **[Overview and Guidelines](GNS3 Lab for LFCS - Overview and Guidelines.md)**
-- **[Preparation](GNS3 Lab for LFCS - Preparation.md)**
-- **[Questions](GNS3 Lab for LFCS - Questions.md)**
-- **[Questions and Solutions](GNS3 Lab for LFCS - Questions and Solutions.md)**
+- **[Overview and Guidelines](GNS3%20Lab%20for%20LFCS%20-%20Overview%20and%20Guidelines.md)**
+- **[Preparation](GNS3%20Lab%20for%20LFCS%20-%20Preparation.md)**
+- **[Questions](GNS3%20Lab%20for%20LFCS%20-%20Questions.md)**
+- **[Questions and Solutions]("./GNS3%20Lab%20for%20LFCS%20-%20Questions%20andvSolutions.md")**
 
 ## Contributing
 
