@@ -1,6 +1,6 @@
 # GNS3 Lab for LFCS: Preparation
 
- [Back to main](GNS3 Lab for LFCS - Overview and Guidelines.md) 
+ [Back to main](GNS3%20Lab%20for%20LFCS%20-%20Overview%20and%20Guidelines.md) 
 
 
 ## GNS3 Network Schema
