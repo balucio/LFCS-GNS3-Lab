@@ -100,6 +100,7 @@ Configure the **Router (`router`)** system to:
 
 <details>
   <summary>Answer</summary>
+
 To answer this task, we will use **firewalld** due to its simplicity. We'll utilize two predefined *firewalld* zones: `public` for handling Internet traffic, and `internal` for managing Application and Management subnet traffic.
 
 <br><br>
