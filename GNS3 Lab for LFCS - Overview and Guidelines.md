@@ -1,5 +1,7 @@
 # GNS3 Lab for LFCS: Overview and Guidelines
 
+[Back to README](README.md)
+
 ## Expectation
 
 This GNS3 lab is primarily designed to assess your readiness for the Linux Foundation Certified System Administrator (LFCS) certification. It also serves as a valuable tool for practicing and testing your Linux skills. The lab consists of 20 practical questions that require configuring various aspects of a Linux system and can be completed in approximately 6 hours.
