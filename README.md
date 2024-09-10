@@ -2,7 +2,7 @@
 
 ## Description
 
-This GNS3 lab was designed to test my knowledge in preparation for the Linux Foundation Certified System Administrator (LFCS) exam. It provides a practical environment that helped me to prepare for the exam.
+This GNS3 lab was designed to assess my knowledge in preparation for the Linux Foundation Certified System Administrator (LFCS) exam. It provides a practical environment that has helped me prepare effectively for the exam. Additionally, it serves as a good starting point for anyone looking to improve their Linux system administration skills.
 
 ## Requirements
 
