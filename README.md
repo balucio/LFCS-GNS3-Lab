@@ -6,10 +6,10 @@ This GNS3 lab was designed to test my knowledge in preparation for the Linux Fou
 
 ## Requirements
 
-**Host**: Linux with GNS3 and QEMU installed, or Windows or MacOS with GNS3 VM Image
-**CPU**: Multicore CPU (ie. Intel i5/i or Ryzen 5)
-**RAM**: 8GiB minimum
-**DISK**: 40GiB available space
+- **Host**: Linux with GNS3 and QEMU installed, or Windows or MacOS with GNS3 VM Image
+- **CPU**: Multicore CPU (ie. Intel i5/i or Ryzen 5)
+- **RAM**: 8GiB minimum
+- **DISK**: 40GiB available space
 
 ## Schema
 <img src="imgs/lab-schema.png" alt="Schema" style="zoom:30%;" />
