@@ -32,3 +32,10 @@ Both versions are compressed in 7zip format and split into 1 GiB archive files.
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or find issues, please submit a pull request or open an issue.  This is a hobbyist project, and responses to issues or pull requests may be delayed as they will be addressed in my spare time. Thank you for your understanding.
+
+# Disclaimer
+
+All the material provided in this project is available for free across various sites and Open Source Community channels and adheres to the terms and conditions of the respective open-source licenses. No content or files in this project violate any licenses or copyright regulations.
+
+This project is distributed under the Apache License 2.0, and by using it, you agree to the terms outlined by this license. The author assumes no responsibility for any issues that may arise from the use of this material.
+
