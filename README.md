@@ -19,7 +19,7 @@ This GNS3 lab was designed to assess my knowledge in preparation for the Linux F
 - **[Overview and Guidelines](GNS3%20Lab%20for%20LFCS%20-%20Overview%20and%20Guidelines.md)**
 - **[Preparation](GNS3%20Lab%20for%20LFCS%20-%20Preparation.md)**
 - **[Questions](GNS3%20Lab%20for%20LFCS%20-%20Questions.md)**
-- **[Questions and Solutions](GNS3%20Lab%20for%20LFCS%20-%20Questions%20andvSolutions.md)**
+- **[Questions and Solutions](GNS3%20Lab%20for%20LFCS%20-%20Questions%20and%20Solutions.md)**
 
 ## Quick Setup
 For those who prefer a quick setup, the GNS3 project is available in portable format via the following links. There are two versions:
