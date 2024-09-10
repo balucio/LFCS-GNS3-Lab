@@ -102,7 +102,8 @@ Configure the **Router (`router`)** system to:
   <summary>Answer</summary>
 To answer this task, we will use **firewalld** due to its simplicity. We'll utilize two predefined *firewalld* zones: `public` for handling Internet traffic, and `internal` for managing Application and Management subnet traffic.
 
-> [!IMPORTANT]
+<br><br>
+
 > The initial configuration of firewalld can vary slightly between distributions. To ensure the final configuration meets the requirements of this task, some commands may appear redundant, and firewalld might generate warnings indicating that certain configurations are already in place.
 
 #### 1. **Install and enable `firewalld`**
@@ -132,7 +133,8 @@ sudo firewall-cmd --zone=public --add-masquerade --permanent
 
 #### 3. **Enable forwarding between `eth0` and `eth1`**
 
-> [!IMPORTANT]
+<br><br>
+
 > Ensure that Task **1: Networking - IPv4/IPv6 Configuration** is completed correctly, as proper Kernel level forwarding configuration is essential for firewalld zone forwarding to work effectively.
 
 We use the **firewalld** `internal` zone to handle traffic for the Application and Management subnets.
