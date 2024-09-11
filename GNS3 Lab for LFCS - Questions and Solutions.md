@@ -244,7 +244,7 @@ MAC Address: 0C:E7:0A:4A:00:02 (Unknown)
 
 ## 5. Security: Router Hardening
 
-After a security audit, a critical vulnerability was discovered on the **Router (`router`)** system: port `9090` is exposed to the Internet. As a White Hat engineer, your role is to identify which service is listening on that port and mitigate the issue without stopping the service. Additionally, ensure that by default, no external traffic is allowed into the `router`, except for the `ssh` service.
+Following a security audit, a critical vulnerability was discovered on the **Router (`router`)**: an unsecured service is publicly exposed on the internet. As a white hat engineer, your task is to identify the service and port, and secure it from external access while maintaining availability for internal users. Additionally, ensure that by default, no external traffic is allowed into the `router`, except for the `ssh` service.
 
 <details>
   <summary>Answer</summary>
